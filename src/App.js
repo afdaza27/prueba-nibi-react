@@ -17,7 +17,7 @@ function App() {
       categoria: "Otro",
       inscritos: 4,
       diasRestantes: 70,
-      imagen: "/imgs/placeholder.jpg",
+      imagen: "./imgs/placeholder.jpg",
     },
     {
       id: 2,
@@ -31,7 +31,7 @@ function App() {
       categoria: "Otro",
       inscritos: 4,
       diasRestantes: 70,
-      imagen: "/imgs/placeholder.jpg",
+      imagen: "./imgs/placeholder.jpg",
     },
     {
       id: 3,
@@ -45,7 +45,7 @@ function App() {
       categoria: "Otro",
       inscritos: 4,
       diasRestantes: 70,
-      imagen: "/imgs/placeholder.jpg",
+      imagen: "./imgs/placeholder.jpg",
     },
     {
       id: 4,
@@ -59,7 +59,7 @@ function App() {
       categoria: "Otro",
       inscritos: 4,
       diasRestantes: 70,
-      imagen: "/imgs/placeholder.jpg",
+      imagen: "./imgs/placeholder.jpg",
     },
     {
       id: 5,
@@ -73,7 +73,7 @@ function App() {
       categoria: "Otro",
       inscritos: 4,
       diasRestantes: 70,
-      imagen: "/imgs/placeholder.jpg",
+      imagen: "./imgs/placeholder.jpg",
     },
     {
       id: 6,
@@ -87,7 +87,7 @@ function App() {
       categoria: "Otro",
       inscritos: 4,
       diasRestantes: 70,
-      imagen: "/imgs/placeholder.jpg",
+      imagen: "./imgs/placeholder.jpg",
     },
     {
       id: 7,
@@ -101,7 +101,7 @@ function App() {
       categoria: "Otro",
       inscritos: 4,
       diasRestantes: 70,
-      imagen: "/imgs/placeholder.jpg",
+      imagen: "./imgs/placeholder.jpg",
     },
     {
       id: 8,
@@ -115,7 +115,7 @@ function App() {
       categoria: "Otro",
       inscritos: 4,
       diasRestantes: 70,
-      imagen: "/imgs/placeholder.jpg",
+      imagen: "./imgs/placeholder.jpg",
     },
     {
       id: 9,
@@ -129,7 +129,7 @@ function App() {
       categoria: "Otro",
       inscritos: 4,
       diasRestantes: 70,
-      imagen: "/imgs/placeholder.jpg",
+      imagen: "./imgs/placeholder.jpg",
     },
   ]);
 
