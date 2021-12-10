@@ -1,0 +1,12 @@
+.home {
+  height: 600px;
+  background-color: yellow;
+}
+
+.textoBanner {
+  color: #382564;
+  padding-top: 150px;
+  font-size: 24px;
+  height: 67px;
+  text-align: center;
+}

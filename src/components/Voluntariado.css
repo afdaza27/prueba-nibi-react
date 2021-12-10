@@ -1,0 +1,29 @@
+.botonVoluntario {
+  background-color: #6212d7 !important;
+  border-color: #6212d7 !important;
+  border-radius: 12px;
+}
+
+.card-img-top {
+  width: 400px;
+  height: 520px;
+}
+
+.card {
+  width: 440px;
+  border-radius: 20px;
+  padding-left: 5px;
+  color: #382564;
+}
+
+.cardContainer {
+  padding-top: 60px;
+}
+
+.card-subtitle {
+  font-weight: bold;
+}
+
+.textoCentrado {
+  text-align: center;
+}

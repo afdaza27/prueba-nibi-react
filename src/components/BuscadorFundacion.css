@@ -1,0 +1,26 @@
+.buscadorContainer {
+  text-align: center;
+  height: 260px;
+  width: 1002px;
+  background: transparent linear-gradient(180deg, #ffffffd1 0%, #fefefe 100%) 0%
+    0% no-repeat padding-box;
+  margin: auto;
+  margin-top: 50px;
+  border-radius: 27px;
+  opacity: 1;
+}
+
+.buscadorTitle {
+  color: #382564;
+  font-weight: bold;
+}
+
+.searchBar {
+  width: 80%;
+}
+
+.botonBuscador {
+  background-color: white !important;
+  border-color: white !important;
+  color: #382564 !important;
+}
